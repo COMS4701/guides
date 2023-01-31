@@ -80,9 +80,9 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 To make sure we are all using the same packages and the same versions, we will be distributing programming homework as `poetry` projects:
 
-![./poetry1.png](Setting%20up%204701%20Programming%20Environment%20eb40f985970149c3bc727bc90bf7dec7/Screen_Shot_2023-01-26_at_12.44.48_PM.png)
+![poetry1](./poetry1.png)
 
-![./poetry2.png](Setting%20up%204701%20Programming%20Environment%20eb40f985970149c3bc727bc90bf7dec7/Screen_Shot_2023-01-26_at_12.45.07_PM.png)
+![poetry2](./poetry2.png)
 
 As the description above says, `Poetry` is a very popular packaging and dependency management system for Python projects. 
 
